@@ -1,0 +1,5 @@
+UnlitGeneric
+{
+	$basetexture	vgui/realismhardeight
+	$ignorez		1
+}

@@ -7,7 +7,7 @@
 	"ShortDescription"	"Realism Hard Eight (realism made by valve)"
 	"Description"	"Realism Hard Eight with the realism made by valve"
 
-	"Image"		"maps/any"
+	"Image"		"vgui/realismhardeight"
 	"Author"	"Le0N"
 
 	convar
