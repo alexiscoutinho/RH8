@@ -2,14 +2,12 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Realism Hard Eight"
-	addonVersion		2.0
+	addonVersion		2.1
 	addonAuthor			"£e0N and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	djezuz
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/855579408
 	addonContent_Script	1
 	addonDescription	"Hard Eight with the Realism made by Valve.
-
-The internal mode name for use in the console is realismhardeight.
 
 Double the specials, quadruple the fun! NOW IN REALISM... This addon simply merges the amount of specials and faster respawns of Hard Eight with the difficulties of the classic Realism mode.
 
